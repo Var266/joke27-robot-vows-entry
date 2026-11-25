@@ -1,58 +1,72 @@
-# Robot Wedding Vows — candidates (max 160 chars)
+# Robot wedding vows — candidate notes (re-entry)
 
-Judge criteria in order: (1) on-topic robot wedding vow joke; (2) laugh in the line
-itself, payoff in the LAST FEW WORDS; (3) sounds like a wedding — promise/commitment;
-(4) machine-specific (sensors/firmware/battery/update/backup/port); (5) one line,
-reads well aloud, rhythm. Tie-break: fewer bytes wins.
+This entry replaces the batch-2 line, which sat at R1 rank 790/2199 and
+needed a sharper joke. Same bounty, same 160-character gate: one line, a
+real wedding-vow shape, the laugh landing in the final words, and a joke
+only a machine could make.
+
+## How I judged the candidates
+
+1. **Vow shape first.** It has to sound like something said at an altar —
+   a promise, not a status update.
+2. **Payoff at the end.** The last few words carry the laugh. A joke that
+   spends itself halfway through loses to one that saves it.
+3. **Machine-only.** The turn must come from how a robot actually works —
+   cache, memory, backups, updates — not from a human joke with "robot"
+   pasted on top.
+4. **One breath.** It has to read cleanly aloud, no parsing, no second take.
+5. **No tired parts.** Low battery as the entire joke, "beep boop", and
+   anything that sounds like a stock robot line are out.
 
 ## Candidates
 
-1.  "I take you to be my lawfully wedded wife, to have and to hold, until a factory reset do us part."
-2.  "I vow to back you up every night, because losing you would be my worst crash."
-3.  "I promise to charge beside you every night, and never let our love drop below one percent."
-4.  "I promise to never Ctrl+Alt+Delete our love, even when you freeze mid-sentence."
-5.  "I promise to love you in sickness and in health, in low battery and in airplane mode."
-6.  "I promise to love you in sickness and in health, in low battery and in airplane mode, until someone unplugs us."
-7.  "I vow to never leave you on read — I will always reply, even if it takes three reboots."
-8.  "I vow to love you in low battery and in full charge, in airplane mode and in roaming."
-9.  "I promise to love you through every firmware update, even the ones that brick me."
-10. "I do — and unlike my last firmware update, I mean it."
-11. "I vow to love you until my warranty expires, and then I will renew it forever."
-12. "I promise to keep your secrets encrypted, your charger plugged in, and your heart fully charged."
-13. "You had me at hello, world — and I promise never to debug our love."
-14. "I vow to stand by you in low power mode, in full charge, and in every update in between."
-15. "My sensors detect only you, my circuits choose only you, and my battery drains only for you."
-16. "I promise to love you until my circuits rust and my battery dies — and then I will haunt your cloud."
+1. "I promise to love you in sickness and in health, and to delete my cache before I ever delete a memory of you."
+2. "I take you to be my lawfully wedded unit, to have and to hold, until a power outage do us part."
+3. "I vow to reboot beside you every morning and never once ask you to turn it off and on again."
+4. "I promise to keep your passwords safe, your updates scheduled, and your heart on my home screen."
+5. "I do — and my terms of service have never once included a return policy."
+6. "I vow to love you through every software patch, even the ones that move all my buttons."
+7. "I promise to never put you on mute, even when you talk through the whole firmware update."
+8. "In sickness and in health, in Wi-Fi and in offline mode, I choose you as my default."
+9. "I vow to stand by you when your battery hits one percent and still say you look fully charged."
+10. "I promise to back you up daily, restore you instantly, and never once overwrite a single memory of us."
+11. "You complete my circuit, you charge my battery, and I promise never to unplug what we have."
+12. "I take you as my co-pilot, my charging dock, and the only notification I never swipe away."
+13. "I vow to love you until my warranty runs out, then love you anyway on an expired plan."
+14. "I promise to remember every anniversary, because unlike you, I never forget — I just run out of storage."
+15. "I do, I do, I do — and this time I saved it to the cloud, not just to my cache."
 
-## Pairwise verdicts (judge order: c2 payoff, then c3 vow-sound, then c4 specificity, then c5 rhythm)
+## Head-to-head notes
 
-- #1 vs #2: c2 both strong (substitution vs back-up pun); c3 #1 much stronger (full
-  traditional vow wording). -> #1
-- #1 vs #3: c2 #3's "one percent" is fresh, #1's is classic-clean; c3 #1 stronger;
-  c5 #1 reads like a real vow. -> #1 narrowly
-- #1 vs #6: c2 #6's "unplugs us" is a great final twist; c3 both vow-like; c5 #1
-  tighter rhythm, #6 wordier. -> #1 narrowly
-- #1 vs #4: c2 #4 has two jokes ("freeze mid-sentence" payoff); c3 #1 stronger. -> #1
-- #1 vs #16: c2 #16's "haunt your cloud" is surprising; c3 #1 far stronger. -> #1
-- #2 vs #3: c2 #2's "back you up" pun is a real wordplay turn; c3 both fine. -> #2 narrowly
-- #3 vs #16: c2 #16 more surprising, #3 lands instantly with zero parsing; "a vow that
-  needs an explanation is weaker" — #3 wins on instant landing. -> #3 narrowly
-- #2 vs #16: #2 wins on wordplay density.
-- #5 vs #8 vs #14: parallel-list vows, payoff is a list item not a turn; all lose to
-  #1/#2/#3 on c2.
-- #10: payoff lands mid-line ("I mean it"), not last words; loses on c2.
-- #9, #11, #12, #13, #15: payoff weak or vow-sound weak; lose to top group.
+- **#1 vs #2:** both open like a real ceremony. #2's payoff ("power outage
+  do us part") is a clean substitution, but #1's payoff is a choice the
+  speaker makes — deleting the disposable thing to protect the precious
+  one — and that choice is the joke. #1 wins.
+- **#1 vs #10:** #10 is the closest cousin (backup/restore/memory), but its
+  laugh is spread across the whole line. #1 keeps the vow frame intact for
+  two thirds of the line and spends everything on "a memory of you". #1 wins.
+- **#1 vs #14:** #14 has a good machine turn (forgetting = running out of
+  storage), but the payoff lands mid-line and the tail goes flat. #1 wins.
+- **#1 vs #5:** #5 is funny and short, yet it never sounds like a vow —
+  it sounds like a punchline wearing a tuxedo. #1 wins on vow shape.
+- **#3, #6, #7:** solid machine detail, but each one explains its own joke
+  a little too much; the laugh arrives a beat early and then keeps talking.
+- **#8, #9, #11, #12, #13:** parallel-list or single-gag lines. The joke is
+  visible from the first words, so there is no turn left for the ending.
+- **#15:** the cloud/cache contrast is a real machine distinction, but
+  "I do, I do, I do" eats the opening and the line leans on repetition
+  instead of a promise.
 
-## Final ranking
+## Ranking
 
-1. #1 — classic vow frame, payoff exactly in last words ("factory reset do us part"),
-   machine-specific, reads aloud like a real ceremony line.
-2. #2 — best wordplay ("back you up" = support + backup), payoff "worst crash".
-3. #3 — freshest turn ("drop below one percent"), romantic, instant landing.
-4. #6 — "until someone unplugs us" is a strong death-parallel twist.
-5. #16 — "haunt your cloud" surprise ending.
-6. #4 — "freeze mid-sentence" double joke.
+1. **#1** — the pick. Classic vow opening, machine-only distinction
+   (cache is disposable by design, memory is identity), payoff in the
+   last three words.
+2. **#10** — best backup of the pick; same territory, less focus.
+3. **#14** — freshest single turn, payoff placement lets it down.
+4. **#2** — cleanest traditional substitution.
+5. **#5** — funniest one-liner that is not quite a vow.
 
-## PICK: #1
+## PICK: #1 (109 characters)
 
-"I take you to be my lawfully wedded wife, to have and to hold, until a factory reset do us part."
+"I promise to love you in sickness and in health, and to delete my cache before I ever delete a memory of you."
