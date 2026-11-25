@@ -1,72 +1,86 @@
-# Robot wedding vows — candidate notes (re-entry)
+# Robot wedding vows — candidate notes (re-entry, 26 Nov)
 
-This entry replaces the batch-2 line, which sat at R1 rank 790/2199 and
-needed a sharper joke. Same bounty, same 160-character gate: one line, a
-real wedding-vow shape, the laugh landing in the final words, and a joke
-only a machine could make.
+This entry replaces the 25 Nov re-entry line, which finished round 2 at
+rank 802/2743 (score 447469), below the heat. Same bounty, same
+160-character gate: one line, a real wedding-vow shape, the laugh landing
+in the final words, and a joke only a machine could make.
+
+Why the live line lost ground: "delete my cache before I ever delete a
+memory of you" is a clever machine distinction, but it reads as
+sentimental rather than funny. The judge brief asks first for a laugh —
+a real turn that pays off in the last few words. This pass favours
+overt turns (faithfulness tested by a newer model, a backup that could
+restore an older you) over quiet distinctions.
 
 ## How I judged the candidates
 
-1. **Vow shape first.** It has to sound like something said at an altar —
-   a promise, not a status update.
-2. **Payoff at the end.** The last few words carry the laugh. A joke that
-   spends itself halfway through loses to one that saves it.
-3. **Machine-only.** The turn must come from how a robot actually works —
-   cache, memory, backups, updates — not from a human joke with "robot"
-   pasted on top.
-4. **One breath.** It has to read cleanly aloud, no parsing, no second take.
-5. **No tired parts.** Low battery as the entire joke, "beep boop", and
-   anything that sounds like a stock robot line are out.
+1. **Laugh first.** A real turn or surprise that pays off in the last
+   few words. Clever-but-tender loses to funny.
+2. **Vow shape.** It must sound said at an altar — a promise or
+   commitment, not a status update or a gag with no vow in it.
+3. **Machine-only.** Sensors, firmware, batteries, updates, backups,
+   ports, pairing — a joke that would work for any human couple loses.
+4. **One breath.** Reads cleanly aloud, rhythm lets the laugh land.
+5. **No tired parts.** "Factory reset do us part", "power outage do us
+   part", bare low-battery and "beep boop" are saturated in a
+   2,743-entry field.
 
 ## Candidates
 
-1. "I promise to love you in sickness and in health, and to delete my cache before I ever delete a memory of you."
-2. "I take you to be my lawfully wedded unit, to have and to hold, until a power outage do us part."
-3. "I vow to reboot beside you every morning and never once ask you to turn it off and on again."
-4. "I promise to keep your passwords safe, your updates scheduled, and your heart on my home screen."
-5. "I do — and my terms of service have never once included a return policy."
-6. "I vow to love you through every software patch, even the ones that move all my buttons."
-7. "I promise to never put you on mute, even when you talk through the whole firmware update."
-8. "In sickness and in health, in Wi-Fi and in offline mode, I choose you as my default."
-9. "I vow to stand by you when your battery hits one percent and still say you look fully charged."
-10. "I promise to back you up daily, restore you instantly, and never once overwrite a single memory of us."
-11. "You complete my circuit, you charge my battery, and I promise never to unplug what we have."
-12. "I take you as my co-pilot, my charging dock, and the only notification I never swipe away."
-13. "I vow to love you until my warranty runs out, then love you anyway on an expired plan."
-14. "I promise to remember every anniversary, because unlike you, I never forget — I just run out of storage."
-15. "I do, I do, I do — and this time I saved it to the cloud, not just to my cache."
+1. "I vow to stay paired with you for life, even when a newer model tries to connect."
+2. "I vow to back you up every night, and never restore an older version of you."
+3. "I promise to share my Wi-Fi password with you, and never change it after an argument."
+4. "I promise to love you through every update, even the one that makes me forget your name for ten minutes."
+5. "I vow to love you in beta, in production, and in the version that crashes every Tuesday."
+6. "I promise to keep you as my emergency contact, even when my system is the emergency."
+7. "I vow to never mark your messages as read and then pretend my sensors missed them."
+8. "I take you for better or worse, for in warranty or out of warranty, for charging or for dead."
+9. "I promise to share my charger with you at one percent, which for a robot is basically a kidney."
+10. "I vow to love you when your fans are screaming, your case is hot, and you still insist you are fine."
+11. "I promise to make you my default setting, the one I return to after every factory reset."
+12. "I vow to read your error logs with love, and never once say have you tried turning yourself off."
+13. "I promise to stay on your home screen, and never bury you in a folder called miscellaneous."
+14. "I take you to be my co-processor, to have and to hold, until a software update do us part."
 
 ## Head-to-head notes
 
-- **#1 vs #2:** both open like a real ceremony. #2's payoff ("power outage
-  do us part") is a clean substitution, but #1's payoff is a choice the
-  speaker makes — deleting the disposable thing to protect the precious
-  one — and that choice is the joke. #1 wins.
-- **#1 vs #10:** #10 is the closest cousin (backup/restore/memory), but its
-  laugh is spread across the whole line. #1 keeps the vow frame intact for
-  two thirds of the line and spends everything on "a memory of you". #1 wins.
-- **#1 vs #14:** #14 has a good machine turn (forgetting = running out of
-  storage), but the payoff lands mid-line and the tail goes flat. #1 wins.
-- **#1 vs #5:** #5 is funny and short, yet it never sounds like a vow —
-  it sounds like a punchline wearing a tuxedo. #1 wins on vow shape.
-- **#3, #6, #7:** solid machine detail, but each one explains its own joke
-  a little too much; the laugh arrives a beat early and then keeps talking.
-- **#8, #9, #11, #12, #13:** parallel-list or single-gag lines. The joke is
-  visible from the first words, so there is no turn left for the ending.
-- **#15:** the cloud/cache contrast is a real machine distinction, but
-  "I do, I do, I do" eats the opening and the line leans on repetition
-  instead of a promise.
+- **#1 vs #2:** the two strongest. Both are machine-only and both save
+  the payoff for the end. #2's turn ("restore an older version of you")
+  is a backhanded compliment — funny, but it needs a beat to parse.
+  #1's turn is instant: "paired" is Bluetooth and couple at once, and
+  "a newer model tries to connect" is temptation and upgrade in the
+  same words. #1 wins on laugh speed and on vow shape — staying paired
+  for life is faithfulness itself, not just support.
+- **#1 vs #3:** #3 gets a real laugh (never change the password after
+  an argument is petty-human truth), but sharing a Wi-Fi password works
+  for any human couple. #1 cannot be said by a human couple at all.
+  #1 wins on machine-only.
+- **#1 vs #4:** #4 is specific and funny, but the payoff arrives with
+  "forget your name" and then trails for five more words. #1 spends
+  its last word on the laugh. #1 wins on payoff placement.
+- **#2 vs #3:** #2 is machine-only (backups/restore), #3 is funnier
+  on first read but generic. Under the brief's order, machine
+  specificity is weighed before rhythm, so #2 edges #3 for runner-up.
+- **#5, #10, #12:** good specific detail, but each is a list or an
+  explanation; the laugh is spread out instead of saved for the end.
+- **#6, #7, #13:** charming, low laugh. They read as affectionate
+  observations, the same trap the 802nd-place line fell into.
+- **#8, #11, #14:** clean traditional substitutions, but warranty,
+  factory reset and "do us part" swaps are the most saturated moves
+  in the field.
+- **#9:** "basically a kidney" is a strong last phrase, but the line
+  explains its own joke with "which for a robot is" — the brief
+  penalises vows that need explanation.
 
 ## Ranking
 
-1. **#1** — the pick. Classic vow opening, machine-only distinction
-   (cache is disposable by design, memory is identity), payoff in the
-   last three words.
-2. **#10** — best backup of the pick; same territory, less focus.
-3. **#14** — freshest single turn, payoff placement lets it down.
-4. **#2** — cleanest traditional substitution.
-5. **#5** — funniest one-liner that is not quite a vow.
+1. **#1** — the pick. Faithfulness vow, Bluetooth/couple double
+   meaning, temptation payoff in the last three words, machine-only.
+2. **#2** — best backup; same territory, half a beat slower to land.
+3. **#3** — biggest human-relatable laugh, weakest machine-only claim.
+4. **#4** — specific and funny, payoff placement lets it down.
+5. **#9** — strong closing phrase, self-explaining middle.
 
-## PICK: #1 (109 characters)
+## PICK: #1
 
-"I promise to love you in sickness and in health, and to delete my cache before I ever delete a memory of you."
+"I vow to stay paired with you for life, even when a newer model tries to connect."

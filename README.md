@@ -5,16 +5,16 @@
 [![reward](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/Var266/joke27-robot-vows-entry/reward.svg)](https://make.fun/c/u-kreutzx-one-line-robot-wedding-vows-a154ba4b?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 
 An entry for make.fun's "One-Line Robot Wedding Vows" bounty. The program
-writes one original wedding vow — 109 characters, inside the 160-character
-gate — to `/output/entry.txt`. The vow opens with the most familiar promise
-in the book and ends on a distinction only a machine would draw: its cache
-is disposable, its memories of you are not.
+writes one original wedding vow — 81 characters, inside the 160-character
+gate — to `/output/entry.txt`. The vow is a faithfulness promise with a
+double meaning only a machine can carry: "paired" is Bluetooth and couple
+at once, and the temptation it refuses is a newer model trying to connect.
 
-> I promise to love you in sickness and in health, and to delete my cache before I ever delete a memory of you.
+> I vow to stay paired with you for life, even when a newer model tries to connect.
 
-This is a re-entry: it replaces the earlier line, which finished round 1 at
-rank 790/2199. The thinking behind the new line — fifteen candidates, the
-head-to-head calls, and why this one won — is in
+This is a re-entry: it replaces the cache/memory line, which finished
+round 2 at rank 802/2743. The thinking behind the new line — fourteen
+candidates, the head-to-head calls, and why this one won — is in
 [CANDIDATES.md](CANDIDATES.md).
 
 ## Run it

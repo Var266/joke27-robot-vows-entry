@@ -1,13 +1,16 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-// One-line robot wedding vow: a real vow frame ("I promise to love you in
-// sickness and in health") with the laugh landing in the last few words —
-// a robot pledging to clear its disposable cache before it would ever
-// clear a memory of its partner. Cache vs. memory only works for a machine.
+// One-line robot wedding vow (26 Nov re-entry; replaces the cache/memory
+// line that finished round 2 at 802/2743): a faithfulness promise
+// ("stay paired with you for life") with the laugh in the last few
+// words — a newer model trying to connect. "Paired" is Bluetooth and
+// couple at once, and a newer model is temptation and upgrade in the
+// same words; only a machine could make this vow. Picked pairwise over
+// thirteen other candidates in CANDIDATES.md.
 const MAX_CHARS = 160;
 
 const vow =
-  "I promise to love you in sickness and in health, and to delete my cache before I ever delete a memory of you.";
+  "I vow to stay paired with you for life, even when a newer model tries to connect.";
 
 // Char gate for this bounty is 160; fail loudly instead of emitting an
 // entry the sealed scorer would mark invalid.
